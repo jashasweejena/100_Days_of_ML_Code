@@ -14,5 +14,5 @@
 
   * 5:45PM IST - Plan for today
 
-       ![planday1](https://github.com/jashasweejena/100_Days_of_ML_Code/raw/master/PlanDay1.jpeg "Plan for Day 1") 
+       ![planday1](https://github.com/jashasweejena/100_Days_of_ML_Code/raw/master/Day1/PlanDay1.jpeg "Plan for Day 1") 
 
