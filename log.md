@@ -10,7 +10,8 @@
 
 **Link to work:** Really none! Will start from tomorrow.
 
-### Day 1: July 5, 2018 
+
+### Day 1: July 6, 2018 
 
   * 5:45PM IST - Plan for today
 
@@ -31,4 +32,18 @@
 **Thoughts:** I worked for about 2 odd hours today. I started by thinking that javascript is much easier to use because I had some background working with basic java. But boy was I wrong! It took me about 40 odd minutes to grasp some of the basics like, functions are integral to js, objects are defined in a way different to other OOPS based languages. Then the rest of the 20 mins passed away in making sense of what a tree is actually and how "this" keyword works in javascript. One hour had already passed by the time this finished. I took a break of 15 mins and started with "The Deep Learning Book" by Ian Goodfellow, Yoshua Bengio, Aaron Courville. It went on for about an hour. I retired then.
 
 **Link to work:** Really none! Though, you can see the images I posted above.
+
+
+### Day 2: July 7, 2018 
+
+  * 7:55PM IST - Completed Day 2
+
+       ![page1day2](https://github.com/jashasweejena/100_Days_of_ML_Code/raw/master/Day2/Day2_1.jpeg)
+
+**Today's Progress**: Setup anaconda and learn a bit about how lists are made in python by using a dataset from Quandl.
+
+**Thoughts:** I didn't do much today. Was stuck coz my global python environment was not changing from miniconda to anaconda(recently installed!). I did solve that, then I took some time grasping how lists work with python and they are amazing. Python does a better job at managing lists than java does with managing ArrayLists. That's it for today!
+
+**Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/e718f8dbb42d470a7b70c596ea50dc9ed854267f. Also the image I posted above
+
 
