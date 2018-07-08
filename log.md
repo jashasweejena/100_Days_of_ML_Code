@@ -47,3 +47,17 @@
 **Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/e718f8dbb42d470a7b70c596ea50dc9ed854267f. Also the image I posted above
 
 
+### Day 3: July 8, 2018 
+
+  * 6:38PM IST - Completed Day 2
+
+       ![page1day3](https://github.com/jashasweejena/100_Days_of_ML_Code/raw/master/Day3/Day3_1.jpeg)
+
+**Today's Progress**: Learnt more about python, including topics like lists, tuples, generator, for loop, while loop, writing functions. Learnt about pandas and how it uses something like a dataframe to manage datasets. Learn't some very basic operations on dataframes.
+
+**Thoughts:** I didn't do much today as well. Pandas took some time getting used to and I guess, python will take some getting used to as well. I didn't know that the datasets we talk about in machine learning have the same layout as an excel sheet. It is pretty interesting stuff! Pandas is nice. Plan on doing more progress next time!
+
+**Link to work:** None! Coz, I didn't work on any project. Sorry.
+
+
+
