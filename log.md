@@ -49,13 +49,26 @@
 
 ### Day 3: July 8, 2018 
 
-  * 6:38PM IST - Completed Day 2
+  * 6:38PM IST - Completed Day 3
 
        ![page1day3](https://github.com/jashasweejena/100_Days_of_ML_Code/raw/master/Day3/Day3_1.jpeg)
 
 **Today's Progress**: Learnt more about python, including topics like lists, tuples, generator, for loop, while loop, writing functions. Learnt about pandas and how it uses something like a dataframe to manage datasets. Learn't some very basic operations on dataframes.
 
 **Thoughts:** I didn't do much today as well. Pandas took some time getting used to and I guess, python will take some getting used to as well. I didn't know that the datasets we talk about in machine learning have the same layout as an excel sheet. It is pretty interesting stuff! Pandas is nice. Plan on doing more progress next time!
+
+**Link to work:** None! Coz, I didn't work on any project. Sorry.
+
+
+### Day 4: July 9, 2018 
+
+  * 7:32PM IST - Completed Day 4
+
+       ![page1day4](https://github.com/jashasweejena/100_Days_of_ML_Code/raw/master/Day4/day4_1.jpeg)
+
+**Today's Progress**: Learn about vector and matrix multiplication and some more function of pandas.
+
+**Thoughts:** Today I was tired af! But I know that it isn't an excuse. Still, I felt like my brain couldn't process even simple math. So, after watching 17 mins of a 45 min long video of MIT OCW, I gave up. I switched to completing the 'pandas basics' video from where I left off yesterday. Did complete that tho! Tried watching some 3B1B too, but brain says to sleep. So that's what I'm gonna do.
 
 **Link to work:** None! Coz, I didn't work on any project. Sorry.
 
