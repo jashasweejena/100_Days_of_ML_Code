@@ -73,4 +73,13 @@
 **Link to work:** None! Coz, I didn't work on any project. Sorry.
 
 
+### Day 4: July 10, 2018 
 
+  * 11:42PM IST - Completed Day 5
+
+
+**Today's Progress**: Learned about training a classifier, predicting accuracy of a classifier, splitting the dataset into training and testing data, converting a (part of) dataframe to an array using numpy.
+
+**Thoughts:** Today I was tired af too! Hope, I get over this soon. Besides, no pictures for today coz I didn't pen anything down today as everything was happening in code. I was watching sentdex's videos and following along.
+
+**Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/9b533950a40ac10ffaba303198321dffb9f61bd7
