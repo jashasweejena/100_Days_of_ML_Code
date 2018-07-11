@@ -73,7 +73,7 @@
 **Link to work:** None! Coz, I didn't work on any project. Sorry.
 
 
-### Day 4: July 10, 2018 
+### Day 5: July 10, 2018 
 
   * 11:42PM IST - Completed Day 5
 
@@ -83,3 +83,15 @@
 **Thoughts:** Today I was tired af too! Hope, I get over this soon. Besides, no pictures for today coz I didn't pen anything down today as everything was happening in code. I was watching sentdex's videos and following along.
 
 **Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/9b533950a40ac10ffaba303198321dffb9f61bd7
+
+
+### Day 6: July 11, 2018 
+
+  * 9:38PM IST - Completed Day 6
+
+
+**Today's Progress**: Nothing much! First I started with sentdex's videos of which I wasn't unable to understand a part. Then, I sat down to see 3b1b's neural network series' first video. 
+
+**Thoughts:** Today I was tired af too coz college started. I haven't slept well since 3 days. I think, I should work with python, math and other stuffs from the basic level before I jump into ML. 
+
+**Link to work:** None
