@@ -95,3 +95,16 @@
 **Thoughts:** Today I was tired af too coz college started. I haven't slept well since 3 days. I think, I should work with python, math and other stuffs from the basic level before I jump into ML. 
 
 **Link to work:** None
+
+
+### Day 7: July 12, 2018 
+
+  * 8:50PM IST - Completed Day 7
+
+       ![page1day4](https://github.com/jashasweejena/100_Days_of_ML_Code/raw/master/Day7/day7_1.jpeg)
+
+**Today's Progress**: Started "Math of Intelligence - Siraj Raval" and watched a video of the Coding Train teaching elementary calculus. Then, switched over to Andrew Ng's course for an intro to what is about to come my way. 
+
+**Thoughts:** College has a way of making us tired, and that coupled with only 4-5 hours of sleep at night = dizziness everywhere in the day. And, trying to wrap your head around complex math concepts while being sleep deprived is a nightmare. I just learnt it the hard way that one must learn to walk before running. So, I've got to make my math my strongest subject. I've to work hard. Whenever I find time in college or in my daily life, I gotta study math. Okay!
+
+**Link to work:** None
