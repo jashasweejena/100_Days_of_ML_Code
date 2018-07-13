@@ -108,3 +108,14 @@
 **Thoughts:** College has a way of making us tired, and that coupled with only 4-5 hours of sleep at night = dizziness everywhere in the day. And, trying to wrap your head around complex math concepts while being sleep deprived is a nightmare. I just learnt it the hard way that one must learn to walk before running. So, I've got to make my math my strongest subject. I've to work hard. Whenever I find time in college or in my daily life, I gotta study math. Okay!
 
 **Link to work:** None
+
+
+### Day 8: July 13, 2018 
+
+  * 8:00PM IST - Completed Day 8
+
+**Today's Progress**: Watched two videos of 3B1B'S essence of calculus series. They helped me build intuition for some of the problems and paradoxes in calculus and how to get around them.
+
+**Thoughts:** I am tired of telling that I'm tired. Firstly, I figured that I must learn to walk before I run, so I'm starting to ignite my hidden interest in math to help me propel forward. Calculus still intrigues me and will continue to do so for the rest of my life, but I gotta get around it. And I will.
+
+**Link to work:** None
