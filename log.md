@@ -119,3 +119,14 @@
 **Thoughts:** I am tired of telling that I'm tired. Firstly, I figured that I must learn to walk before I run, so I'm starting to ignite my hidden interest in math to help me propel forward. Calculus still intrigues me and will continue to do so for the rest of my life, but I gotta get around it. And I will.
 
 **Link to work:** None
+
+
+### Day 8: July 13, 2018 
+
+  * 8:00PM IST - Completed Day 8
+
+**Today's Progress**: Watched Siraj Raval's Episode 2 of The Math Of Intelligence and learnt a bit about support vector machines.
+
+**Thoughts:** I am not tired today! I was just actively lazy and procrastinative. I learnt that I must learn about math properly first before getting down to code. I'm doing that
+
+**Link to work:** None
