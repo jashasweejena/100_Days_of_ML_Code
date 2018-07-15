@@ -121,7 +121,7 @@
 **Link to work:** None
 
 
-### Day 8: July 13, 2018 
+### Day 9: July 13, 2018 
 
   * 8:00PM IST - Completed Day 8
 
@@ -130,3 +130,15 @@
 **Thoughts:** I am not tired today! I was just actively lazy and procrastinative. I learnt that I must learn about math properly first before getting down to code. I'm doing that
 
 **Link to work:** None
+
+
+### Day 10: July 14, 2018 
+
+  * 9:00PM IST - Completed Day 9
+
+**Today's Progress**: Started watching "Intro to Data Analysis" from Udacity and started at codewars
+
+**Thoughts:** I am not tired today! I was just actively lazy and procrastinative. I learnt that I must learn about math properly first before getting down to code. I'm doing that. Being lazy here too.
+
+**Link to work:** None
+
