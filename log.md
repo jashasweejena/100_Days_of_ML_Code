@@ -142,3 +142,13 @@
 
 **Link to work:** None
 
+
+### Day 11: July 16, 2018 
+
+  * (No Time) IST - Completed Day 9
+
+**Today's Progress**: Most of my python basics are clear and I'm all ready to go!
+
+**Thoughts:** Bought ML course from LearnCodeOnline and I now have a clear pathway to go. Python's basics are easy af and I don't feel fatigued today somehow. Hope to do something great tomorrow!
+
+**Link to work:** None
