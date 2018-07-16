@@ -145,7 +145,7 @@
 
 ### Day 11: July 16, 2018 
 
-  * (No Time) IST - Completed Day 9
+  * (No Time) IST - Completed Day 10
 
 **Today's Progress**: Most of my python basics are clear and I'm all ready to go!
 
