@@ -152,3 +152,14 @@
 **Thoughts:** Bought ML course from LearnCodeOnline and I now have a clear pathway to go. Python's basics are easy af and I don't feel fatigued today somehow. Hope to do something great tomorrow!
 
 **Link to work:** None
+
+
+### Day 12: July 17, 2018 
+
+  * (No Time) IST - Completed Day 11
+
+**Today's Progress**: Gained more familiarity with python. Wrote a simple bubble sorting loop and started learning some basic web scraping.
+
+**Thoughts:** Today doesn't feel tiresome, yet I started a little late at 9PM. I started with some simple python progs from LCO and I feel confident.
+
+**Link to work:** None
