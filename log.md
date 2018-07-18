@@ -163,3 +163,14 @@
 **Thoughts:** Today doesn't feel tiresome, yet I started a little late at 9PM. I started with some simple python progs from LCO and I feel confident.
 
 **Link to work:** None
+
+
+### Day 13: July 18, 2018 
+
+  * (No Time) IST - Completed Day 13
+
+**Today's Progress**: Scraped wikipedia for some simple titles (based on Hitesh's video) and learn't a bit more about numpy
+
+**Thoughts:** Learnt some more about numpy and scraped Wikipedia
+
+**Link to work:** None
