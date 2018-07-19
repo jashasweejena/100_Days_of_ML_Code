@@ -174,3 +174,15 @@
 **Thoughts:** Learnt some more about numpy and scraped Wikipedia
 
 **Link to work:** None
+
+
+### Day 14: July 19, 2018 
+
+  * (No Time) IST - Completed Day 14
+
+**Today's Progress**: Almost completed the numpy section of LCO.
+
+**Thoughts:** Numpy is powerful af. It can design matrices, perform operations on them and a whole lot of things on them. I almost completed the numpy section and am planning to complete the last remaining video too. Tomorrow onwards, I'm gonna focus on the math part throughout my day and use pen and paper to solve math problems.
+
+**Link to work:** None
+
