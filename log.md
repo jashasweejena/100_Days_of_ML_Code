@@ -186,3 +186,14 @@
 
 **Link to work:** None
 
+
+### Day 15: July 20, 2018 
+
+  * (No Time) IST - Completed Day 15
+
+**Today's Progress**: Numpy, done! Pandas, reached middle part.
+
+**Thoughts:** Pandas is used for data preprocessing, as far as I know. Learning pandas, and I kinda hope about completing that section tomorrow and that's it.
+
+**Link to work:** None
+
