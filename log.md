@@ -197,3 +197,15 @@
 
 **Link to work:** None
 
+
+### Day 16: July 21, 2018 
+
+  * (No Time) IST - Completed Day 16
+
+**Today's Progress**: Pandas, done! Nice library.
+
+**Thoughts:** Didn't do much today, just completed pandas part of LCO. It is quite flexible in handling datasets. That's it for today.
+
+**Link to work:** None
+
+
