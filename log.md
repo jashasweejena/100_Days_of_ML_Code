@@ -209,3 +209,14 @@
 **Link to work:** None
 
 
+### Day 17: July 22, 2018 
+
+  * (No Time) IST - Completed Day 17
+
+**Today's Progress**: Matplotlib, done!
+
+**Thoughts:** Didn't do much today either, but really enjoyed the part that I did. Learning about these libraries solely can be boring at times when you don't really see the end goal and all you see are the naive self-made databases and those seemingly simple operations that we apply on it But once this occurs, think of the time when you need to study basic geometry in lower classes to understand advanced topics like calculus once you grow up. 
+
+**Link to work:** None
+
+
