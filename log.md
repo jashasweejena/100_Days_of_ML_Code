@@ -123,7 +123,7 @@
 
 ### Day 9: July 13, 2018 
 
-  * 8:00PM IST - Completed Day 8
+  * 8:00PM IST - Completed Day 9
 
 **Today's Progress**: Watched Siraj Raval's Episode 2 of The Math Of Intelligence and learnt a bit about support vector machines.
 
@@ -134,7 +134,7 @@
 
 ### Day 10: July 14, 2018 
 
-  * 9:00PM IST - Completed Day 9
+  * 9:00PM IST - Completed Day 10
 
 **Today's Progress**: Started watching "Intro to Data Analysis" from Udacity and started at codewars
 
@@ -145,7 +145,7 @@
 
 ### Day 11: July 16, 2018 
 
-  * (No Time) IST - Completed Day 10
+  * (No Time) IST - Completed Day 11
 
 **Today's Progress**: Most of my python basics are clear and I'm all ready to go!
 
@@ -156,7 +156,7 @@
 
 ### Day 12: July 17, 2018 
 
-  * (No Time) IST - Completed Day 11
+  * (No Time) IST - Completed Day 12
 
 **Today's Progress**: Gained more familiarity with python. Wrote a simple bubble sorting loop and started learning some basic web scraping.
 
@@ -216,6 +216,17 @@
 **Today's Progress**: Matplotlib, done!
 
 **Thoughts:** Didn't do much today either, but really enjoyed the part that I did. Learning about these libraries solely can be boring at times when you don't really see the end goal and all you see are the naive self-made databases and those seemingly simple operations that we apply on it But once this occurs, think of the time when you need to study basic geometry in lower classes to understand advanced topics like calculus once you grow up. 
+
+**Link to work:** None
+
+
+### Day 18: July 22, 2018 
+
+  * (No Time) IST - Completed Day 18
+
+**Today's Progress**: Seaborn, almost done. Apart from that, read a few pages of the deeplearning book and things are becoming a bit less hazy now.
+
+**Thoughts:** Internet was down so I had to wait and wait until I settled down to read the pdf of the deeplearningbook. I learned a bit about how representations matter while doing any task and how representation learning might help in that regard. Deep learning is a kind of representation learning which in turn comes under the domain of machine learning and all of the above can be regarded as components of AI. I learned about what is deep learning based on. Deep learning is based on building complex representations based on simpler representations coz representation learning outside deep learning is complicated AF. A simple example of a model which implements representation learning is a MLP(Multi Layered Perceptron) which is an autoencoder, i.e. a thing which encodes data into a certain representation and decodes the representation into the original data ensuring minimal loss to the original data. Also, learned about factorplot and peering over the top, it seems useful AF. GoodBye, coz I gotta change the world . xD
 
 **Link to work:** None
 
