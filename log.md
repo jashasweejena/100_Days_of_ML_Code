@@ -231,3 +231,14 @@
 **Link to work:** None
 
 
+### Day 19: July 23, 2018 
+
+  * (No Time) IST - Completed Day 19
+
+**Today's Progress**: Did learn about a new type of plot A.K.A. swarmplot which is a variation of a scatterplot so that different points don't overlap. Also, learn't about a hell lot of functions in pandas mostly while doing a simple data analysis on a pre-made 911 calls dataset. 
+
+**Thoughts:** Did perform swarmplot on some parameters from the 'iris' dataset which I used 'seaborn' to load. Swarmplot, an advanced form of a scatterplot. Used a pre-made 911 calls dataset to perform various operations such as checking the frequency of various types of reasons for a 911 call, telling the number of unique reasons, using the apply function of pandas to apply a single operation(function) to a column and using that did things like converting an 'object' to a 'timeStamp' object so that operations specific to timeStamps can be done. Even, converted 'timeStamp' object to a string to extract day, date, etc. from that and no sooner that I did that, I realised that there was an exclusive array of operations(functions) which could do the same. Also ran a countplot on some data.
+
+**Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/d3fe941d7a7b22f536ac57982e0d4cb6803ca5bd
+
+
