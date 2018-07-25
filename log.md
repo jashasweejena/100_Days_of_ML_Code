@@ -242,3 +242,15 @@
 **Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/d3fe941d7a7b22f536ac57982e0d4cb6803ca5bd
 
 
+### Day 20: July 24, 2018 
+
+  * (No Time) IST - Completed Day 20
+
+**Today's Progress**: Learn't a bit about independent and dependent matrices and using groupby method to group data and use .plot method to plot graphs on grouped parameters. Also, learnt a way to customize the position of legend on the graph. 
+
+**Thoughts:** Didn't do much today. Started off with some history of ML and DL from a book and moved onto arranging the earlier 911 dataset via groupby operations and learn't a bit about independent and dependent matrices.
+
+**Link to work:** None!
+
+
+
