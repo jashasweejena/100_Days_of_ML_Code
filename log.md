@@ -253,4 +253,13 @@
 **Link to work:** None!
 
 
+### Day 21: July 26, 2018 
+
+  * (No Time) IST - Completed Day 21
+
+**Today's Progress**: Worked on some things. Learnt about independent and dependent matrices. Removed NaN using imputer from sci-kit learn. Used a LabelEncoder to convert the textual categorical data to numbers, used OneHotEncoder to convert the data into a dummy matrix, then split the data into training and testing datasets and scaled each one of the training and testing datasets(X only).
+
+**Thoughts:** Data analysis is basically what I did today. I took a dataset, removed NaN values, used a LabelEncoder on it, converted the encoded values to a dummy matrix, split the dataset into training and testing dataset and scaled it using standard deviation. Not a lot of things, but better than yesterday.
+
+**Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/4558532aa9593bf416dd9c542b11c1050e9cf49d
 
