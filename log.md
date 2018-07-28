@@ -263,3 +263,24 @@
 
 **Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/4558532aa9593bf416dd9c542b11c1050e9cf49d
 
+
+### Day 22: July 27, 2018 
+
+  * (No Time) IST - Completed Day 22
+
+**Today's Progress**: Worked on some more things in linear regression. Completed a simple portfolio project which uses a dataset consisting of house prices and other variables. I used sqft to predict house prices and plotted a graph depicting how good the regressor was at classifying house prices.
+
+**Thoughts:** Understood linear regression somewhat. It is a technique used to predict some dependent value from some independent value(that is exactly what supervised learning intends to do). Linear regression is special in a way that if we try to use a scatterplot to plot the initial points then linear regression, as the name suggests, can try to fit a line so that it is closest to as many data points as possible and the best part, you can actually see your data points and your line traversing through those points. Though it is just 4 lines of code when we use a library like sci-kit learn but I intend on going into the math part soon AF. 
+
+**Link to work:** https://github.com/jashasweejena/Starting-Machine-Learning/commit/6df54fc67b06311dca9ad96e8ecd4f2a626ee476
+
+
+### Day 23: July 28, 2018 
+
+  * (No Time) IST - Completed Day 23
+
+**Today's Progress**: Learned decision tree and used it to predict the marks secured by a specified person given his/her study hours. Learned K-Nearest Neighbor a bit(just the theoretical part).
+
+**Thoughts:** Understood decision tree kinda and used scikit learn to predict a result based on some input. I feel, linear regression, KNN, Decision Trees (and prolly Naive Bayes and SVMs) do the same job, i.e. take an input and predict an output. Different algorithms, yet same objective. That's all I learned today.
+
+**Link to work:** None!
