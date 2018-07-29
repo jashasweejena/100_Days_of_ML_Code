@@ -284,3 +284,14 @@
 **Thoughts:** Understood decision tree kinda and used scikit learn to predict a result based on some input. I feel, linear regression, KNN, Decision Trees (and prolly Naive Bayes and SVMs) do the same job, i.e. take an input and predict an output. Different algorithms, yet same objective. That's all I learned today.
 
 **Link to work:** None!
+
+
+### Day 24: July 29, 2018 
+
+  * (No Time) IST - Completed Day 24
+
+**Today's Progress**: Completed the KNN algo's implementation that was left off.
+
+**Thoughts:** Didn't do much today. Just completed KNN algo's implementation as was left off by me last night.
+
+**Link to work:** None!
