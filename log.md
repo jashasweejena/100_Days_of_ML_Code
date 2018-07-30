@@ -295,3 +295,14 @@
 **Thoughts:** Didn't do much today. Just completed KNN algo's implementation as was left off by me last night.
 
 **Link to work:** None!
+
+
+### Day 25: July 30, 2018 
+
+  * (No Time) IST - Completed Day 25
+
+**Today's Progress**: Watched Siraj's video showcasing XGBoost to predict trip times in NYC.
+
+**Thoughts:** Didn't do much today either. Just that one video and some terminology like 'gradient boosting', 'RNN', 'GAN', 'DCGAN'. Learned about the subplot feature of matplotlib and learnt a little bit about how logarithms are useful in matplotlib. Also had a little bit of pre-experience working with google colab.
+
+**Link to work:** None!
