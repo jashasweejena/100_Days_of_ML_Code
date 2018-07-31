@@ -306,3 +306,14 @@
 **Thoughts:** Didn't do much today either. Just that one video and some terminology like 'gradient boosting', 'RNN', 'GAN', 'DCGAN'. Learned about the subplot feature of matplotlib and learnt a little bit about how logarithms are useful in matplotlib. Also had a little bit of pre-experience working with google colab.
 
 **Link to work:** None!
+
+
+### Day 26: July 31, 2018 
+
+  * (No Time) IST - Completed Day 26
+
+**Today's Progress**: Watched Siraj's video showcasing svm's(the Math of intelligence)
+
+**Thoughts:** Didnt do much today either coz reasons. Did learn about what SVMs are and how they operate. Also learn't about the objective function which contained the regularizer term and the loss function. Learn't about overfit, underfit and misclassification case and how we have to update the regularizer term to avoid that. 
+
+**Link to work:** None!
