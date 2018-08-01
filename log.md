@@ -317,3 +317,14 @@
 **Thoughts:** Didnt do much today either coz reasons. Did learn about what SVMs are and how they operate. Also learn't about the objective function which contained the regularizer term and the loss function. Learn't about overfit, underfit and misclassification case and how we have to update the regularizer term to avoid that. 
 
 **Link to work:** None!
+
+
+### Day 27: August 1, 2018 
+
+  * (No Time) IST - Completed Day 27
+
+**Today's Progress**: Coded a simple ML thingy using SVM to classify whether a set of users have purchased a course or not based on age and income.
+
+**Thoughts:** Almost completed LCO's ML bootcamp, just one algo left (i.e. Naive Bayes). 
+
+**Link to work:** None!
